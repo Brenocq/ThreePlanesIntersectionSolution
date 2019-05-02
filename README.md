@@ -7,14 +7,16 @@ This problem was proposed by Ali Tahzibi. The objective is show the solution of 
 If the solution to this problem exists, it can be a point, a line, or a plane.
 
 <p align="center">
- <img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/InitialPointSolution.png" height="200">
- <img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/LineSolution.png" height="200">
- <img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/PlaneSolution.png" height="200">
- <img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/NoSolution.png" height="200">
+ <img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/InitialPointSolution.png" height="500">
+ <img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/LineSolution.png" height="500">
 </p>
 
+<p align="center">
+<img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/PlaneSolution.png" height="500">
+<img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/NoSolution.png" height="500">
+</p>
 If all coefficients of a given equation are equal to 0, a error on the top-left appear.
 
 <p align="center">
- <img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/ErrorEquation.png" height="200">
+ <img src="https://github.com/Brenocq/ThreePlanesIntersectionSolution/blob/master/Images/ErrorEquation.png" height="500">
 </p>
